@@ -1,2 +1,2 @@
 ﻿# 8-puzzle-slide
-using BFS algorith with GUI
+using BFS algorithm with GUI
